@@ -2,7 +2,6 @@
 - 👀 I’m interested in data science and machine learning ,especially for computer vision.
 - 🌱 I’m currently learning feature engineering.
 - 💞️ I’m looking to collaborate on anyone who have a great passion on topics i am devoted to.
-- 📫 How to reach me ...
 - 😄 Pronouns: friend
 - ⚡ Fun fact: a beginner with github, haha...
 
